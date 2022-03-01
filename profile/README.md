@@ -12,4 +12,11 @@
 
 ## 기대해 주세요!
 
-앱의 출시일은 크리스마스인 12월 25일입니다. 기대해 주세요!
+### Web App
+- https://studia.blue
+
+### Android App
+[![Get it on Google Play](https://play.google.com/intl/en_us/badges/static/images/badges/en_badge_web_generic.png)](https://play.google.com/store/apps/details?id=app.web.studia_kr&pcampaignid=pcampaignidMKT-Other-global-all-co-prtnr-py-PartBadge-Mar2515-1)
+
+### iOS App
+- 심사 
