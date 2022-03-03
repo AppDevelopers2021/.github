@@ -1,6 +1,6 @@
 # 안녕하세요?
 
-우리는 원촌중학교의 코딩 자율동아리, App Developers 입니다. 우리 동아리는 실제로 사용할 수 있는 앱, 이용 가능한 앱을 제작하는 것을 목표로 하고 있습니다.
+우리는 코딩 동아리, App Developers 입니다. 우리 동아리는 실제로 사용할 수 있는 앱, 이용 가능한 앱을 제작하는 것을 목표로 하고 있습니다.
 
 ## 어떤 앱을 만드나요?
 
@@ -8,7 +8,7 @@
 
 ## 어떻게 앱을 만드나요?
 
-다른 동아리와 달리, 우리 자율동아리는 텍스트 코딩을 이용합니다. 덕분에 제대로 된 앱을 개발할 수 있죠.  !["Visual Studio Code"](https://blog.studia.blue/assets/img/vscode.png)  위 이미지는 우리가 사용하는 코드 에디터, Visual Studio Code의 모습입니다.
+다른 청소년 동아리와 달리, 우리 동아리는 텍스트 코딩을 이용합니다. 덕분에 제대로 된 앱을 개발할 수 있죠.  !["Visual Studio Code"](https://blog.studia.blue/assets/img/vscode.png)  위 이미지는 우리가 사용하는 코드 에디터, Visual Studio Code의 모습입니다.
 
 ## 기대해 주세요!
 
